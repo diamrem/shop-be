@@ -3,7 +3,7 @@
 Task [description here](https://github.com/EPAM-JS-Competency-center/cloud-development-course-initial/blob/main/task3-product-magamanent-api/task.md)
 
 Task due date / deadline date - 27.08.2021 / 29.08.21 23:59(GMT+3)
-
+  
 Self check:
  
  TOTAL POINTS - _**11 points**_
