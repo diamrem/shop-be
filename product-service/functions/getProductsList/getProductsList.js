@@ -44,7 +44,7 @@ export const handler = async event => {
           .catch(err => {data_export = 'DB connection error:' + err.stack; error_code = 500})
 
   await client
-          .query('SELECT products.*, stocks.count FROM products LEFT JOIN stocks ON products.id = stocks.product_id')
+          .query('SELECT product_model.*, stock_model.count FROM product_model LEFT JOIN stock_model ON product_model.id = stock_model.product_id')
           .then(res => { data_export = res.rows; error_code = 200 })
           .catch(err => { data_export = 'DB query error 500:' + err.stack; error_code = 500})
 
