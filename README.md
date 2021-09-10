@@ -33,6 +33,7 @@ Self check:
 Task | Description | Method | URL 
 -------|-------------|--------|-----
 
+
 Task 4.1 | SQL script with exemple data | GET | [SQL script with exemple data]
 Task 4.2 | getProductsList get ALL products from DB | GET | https://ghqckasggc.execute-api.eu-central-1.amazonaws.com/dev/products
 Task 4.2 | getProductsById get ONE product from DB by id | GET | https://ghqckasggc.execute-api.eu-central-1.amazonaws.com/dev/products/7567ec4b-b10c-48c5-9345-fc73c48a80a0
