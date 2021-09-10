@@ -1,18 +1,18 @@
---CRE      TABLE Product_model (
---    id uuid primary key,
---    title text,
---    price integer,
---    description text 
---);
---drop table Product_model;
+CRE      TABLE Product_model (
+   id uuid primary key,
+   title text,
+   price integer,
+   description text 
+);
+drop table Product_model;
 
 
---CREATE TABLE stock_model (
---    product_id uuid primary key,
---    count integer,
---    foreign key ("product_id") references "product_model" ("id")
---);
---drop table stock_model;
+CREATE TABLE stock_model (
+   product_id uuid primary key,
+   count integer,
+   foreign key ("product_id") references "product_model" ("id")
+);
+drop table stock_model;
 
 
 insert into Product_model (id, title, price, description) values 
