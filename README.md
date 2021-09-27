@@ -35,10 +35,10 @@ Task | Description | Method | URL
 
 
 Task 4.1 | SQL script with exemple data | GET | [SQL script with exemple data]
-Task 4.2 | getProductsList get ALL products from DB | GET | https://ghqckasggc.execute-api.eu-central-1.amazonaws.com/dev/products
-Task 4.2 | getProductsById get ONE product from DB by id | GET | https://ghqckasggc.execute-api.eu-central-1.amazonaws.com/dev/products/7567ec4b-b10c-48c5-9345-fc73c48a80a0
-Task 4.2 | getProductsById Product in DB not found | GET | https://ghqckasggc.execute-api.eu-central-1.amazonaws.com/dev/products/4444
-Task 4.3 | getProductsById POST to add product to DB | GET | https://ghqckasggc.execute-api.eu-central-1.amazonaws.com/dev/products
+Task 4.2 | getProductsList get ALL products from DB | GET | 
+Task 4.2 | getProductsById get ONE product from DB by id | GET | 
+Task 4.2 | getProductsById Product in DB not found | GET | 
+Task 4.3 | getProductsById POST to add product to DB | GET | 
 ------------
 
 # __Swagger documentation__
