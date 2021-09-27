@@ -9,30 +9,30 @@
   },
   {
     "count": 6,
-    "description": "Let's enjoy the most wonderful trip (negotiable price)",
+    "description": "Let's enjoy the most wonderful trip  (negotiable price)",
     "id": "7567ec4b-b10c-48c5-9345-fc73c48a80a0",
     "price": 1199,
-    "title": "Travel 2й",
+    "title": "Travel 2",
     "imageId": "195443249"
   },
   {
     "count": 7,
-    "description": "Crossing in two Russian capitals, we will see Karelia with our own eyes. ",
+    "description": "Crossing in two Russian capitals, we will see Karelia with our own eyes",
     "id": "7567ec4b-b10c-48c5-9345-fc73c48a80a2",
     "price": 329,
     "title": "Travel 3",
-    "imageId": "Baltic-Sea-Apartamenty-Chlapowo-1386519"
+    "imageId": "1519801807380"
   },
   {
     "count": 12,
-    "description": "Climatic and other factors have exerted considerable influence on the patterns of human settlement. ",
+    "description": "Climatic and other factors have exerted considerable influence on the patterns of human settlement ",
     "id": "7567ec4b-b10c-48c5-9345-fc73c48a80a1",
     "price": 399,
     "title": "Travel 4",
-    "imageId": "BMC_Parent_Category_Header_Image_Mountain_All_Mountain_1"
+    "imageId": "Baltic-Sea-Apartamenty-Chlapowo-1386519"
   },
   {
-    "count": 7,
+    "count": 1,
     "description": "Best night views",
     "id": "7567ec4b-b10c-48c5-9345-fc73c48a80a3",
     "price": 519,
@@ -42,7 +42,7 @@
   {
     "count": 8,
     "description": "The best nature in the world, the most aesthetic palaces, the best sunsets",
-    "id": "7567ec4b-b10c-48c5-9345-fc73348a80a1",
+    "id": "7567ec4b-b10c-48c5-9345-fc73348a80a4",
     "price": 449.99,
     "title": "Travel 6",
     "imageId": "gazzi-cafe"
@@ -50,7 +50,7 @@
   {
     "count": 2,
     "description": "The second best nature in the world, aesthetic palaces, the best sunsets",
-    "id": "7567ec4b-b10c-48c5-9445-fc73c48a80a2",
+    "id": "7567ec4b-b10c-48c5-9445-fc73c48a80a5",
     "price": 560,
     "title": "Travel 7",
     "imageId": "PowerfulReasons_hero"
@@ -58,7 +58,7 @@
   {
     "count": 3,
     "description": "aesthetic palaces, the best sunsets",
-    "id": "7567ec4b-b10c-45c5-9345-fc73c48a80a1",
+    "id": "7567ec4b-b10c-45c5-9345-fc73c48a80a6",
     "price": 515,
     "title": "Travel 8",
     "imageId": "view-of-cafe"
